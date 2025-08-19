@@ -163,40 +163,7 @@ Dev Notes
 
 ---
 
-Project Structure
-
-```
-drink-api/
-├── app.py              # Main Flask app
-├── data.db             # SQLite database (auto-created)
-├── requirements.txt    # Optional: For pip freeze > requirements
-└── README.md           # Project documentation
-```
 
 
 
-Contact
 
-If you're stuck, feel free to open an issue or reach out for help!
-
----
-
-
-License
-
-This project is free to use for learning and demo purposes.
-
-```
-
-
-
-This README is now:
-- Beginner-friendly  
-- Developer-ready   
-- Follows open-source style  
-- Perfect for GitHub 
-
-
-
-Let me know!
-```
