@@ -157,7 +157,7 @@ SDK / Frontend Integration Tips
 
 Dev Notes
 
-* Make sure `data.db` gets created in the project folder.and the temple govinda govinda 
+* Make sure `data.db` gets created in the project folder. 
 * You can manually inspect the DB using `flask shell` or a SQLite viewer.
 * Can be extended easily with `PUT` / `PATCH` for updates.
 
