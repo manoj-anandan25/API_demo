@@ -6,7 +6,7 @@ This project is great for learning how APIs work, testing backend skills, or bui
 ---
 
  Features
-bgnfnfjf
+
 -  View all drinks
 -  View a drink by ID
 -  Add a new drink
