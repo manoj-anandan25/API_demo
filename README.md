@@ -2,6 +2,7 @@
 
 A simple RESTful API built using **Python**, **Flask**, and **SQLite** that allows you to manage a collection of drinks (e.g., Lemonade, Coffee).  
 This project is great for learning how APIs work, testing backend skills, or building SDK demos.
+hhghg
 
 ---
 
